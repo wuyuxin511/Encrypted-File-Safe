@@ -1,0 +1,7 @@
+[{
+	"name":"safezone1",
+	"dev":"/home/zone.fs",
+	"dir":"/home/safebox",
+	"fstype":"ext2",
+	"keyfile":"/home/SafeBox-test/example/safekey"
+}]
