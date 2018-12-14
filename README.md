@@ -1,4 +1,4 @@
-# SafeBox
+# Encrypted File Safe
 
 ## Requirements
 Linux kernel 2.6 or higher
