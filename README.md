@@ -1,4 +1,4 @@
-# Encrypted File Safe
+# Encrypted File Safe Box
 
 ## Requirements
 Linux kernel 2.6 or higher
